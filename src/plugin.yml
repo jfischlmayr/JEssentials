@@ -1,0 +1,6 @@
+name: JEssentials
+author: Jan Fischlmayr
+version: 1.0
+main: at.thejano.jessentials.Main
+commands:
+  gmc:
