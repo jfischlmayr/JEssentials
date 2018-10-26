@@ -4,3 +4,19 @@ version: 1.0
 main: at.thejano.jessentials.Main
 commands:
   gmc:
+    description: Gibt dem Spieler den Gamemode Creative
+    usage: /<command>
+    aliases: [gamemode 1, gm 1]
+  gms:
+    description: Gibt dem Spieler den Gamemode Survival
+    usage: /<command>
+    aliases: [gamemode 0, gm 0]
+  tpall:
+    description: Teleportiert alle Spieler an deine Position
+    usage: /<command>
+  tphere:
+    description: Teleportiert den gewählten Spieler zu dir
+    usage: /<command>
+  fly:
+    description: Setzt Fly-Rechte für den Spieler
+    usage: /<command>
